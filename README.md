@@ -1,2 +1,3 @@
 # quick-h-file
-i am not bothered to copy paste functions from .c to .h files every time i work on projects
+
+script to speed up the coding process by copying functions, structs, typedefs, whatever from a .c to a .h file
